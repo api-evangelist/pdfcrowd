@@ -1,0 +1,64 @@
+{
+    "name": "pdfcrowd",
+    "description": "Pdfcrowd is a Web\/HTML to  PDF online service. Convert HTML to PDF online in the browser or in your PHP,  Python, Ruby, .NET, Java apps via the REST API.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/453-pdfcrowd.jpg",
+    "tags": [
+        "conversions",
+        "documents",
+        "have api",
+        "office",
+        "pdf",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pdfcrowd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "pdfcrowd",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/453-pdfcrowd.jpg",
+            "humanURL": "http:\/\/pdfcrowd.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pdfcrowd-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/pdfcrowd.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@pdfcrowd.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pdfcrowd"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/pdfcrowd.com\/pricing\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/pdfcrowd.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pdfcrowd"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/pdfcrowd.com"
+        }
+    ]
+}
